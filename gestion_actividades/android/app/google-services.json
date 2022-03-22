@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "721561530724",
+    "firebase_url": "https://tfg-app-gestion-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "tfg-app-gestion",
+    "storage_bucket": "tfg-app-gestion.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721561530724:android:83c117449a08891819ca71",
+        "android_client_info": {
+          "package_name": "com.example.gestion_actividades"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721561530724-capeq9ikub68ohn7pfagfi6i1lea4ufr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPtTx9Z7v01Ok0t041wR-YIOWRTKGTPYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721561530724-capeq9ikub68ohn7pfagfi6i1lea4ufr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
